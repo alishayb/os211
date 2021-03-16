@@ -17,3 +17,14 @@ ZCZC  W01  30 L15  Assignment#5: Cloning github repo
 ZCZC  W01  20 L16  Assignment#6: Update mylog.txt via vi
 ZCZC  W01  90 L05  GSGS any kind of error along the way
 ZCZC  W01  60 L17  Assignment#7: Making a Top 10 Links Compilation
+ZCZC  W02  60 L02  Zoom: Monday Class
+ZCZC  W02  10 L12  Generate GNUPG key pair
+ZCZC  W02  10 L13  Import Public Key
+ZCZC  W02  10 L14  Export mypubkey.txt
+ZCZC  W02  45 L15  Choose top 3 and create myrank.txt
+ZCZC  W02  120 L16 Making a top 10 list in week 2
+ZCZC  W02  10 L17  Create myscript.sh
+ZCZC  W02  10 L19  Create SHA256SUM
+ZCZC  W02  60 L25  Learn C
+ZCZC  W02  30 L07  Trying week02 Demos
+ZCZC  W02  30 L23  Pop Quiz in Discord 
