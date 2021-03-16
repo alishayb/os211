@@ -4,4 +4,4 @@ Hello! Welcome to Operating Systems 2021-1 (Semester Genap 2020/2021) by [me](ht
 ## Weekly Assignment
 > [W01](w01)
 
-> [W02](W02)
+> [W02](w02)
