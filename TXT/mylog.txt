@@ -27,4 +27,5 @@ ZCZC  W02  10 L17  Create myscript.sh
 ZCZC  W02  10 L19  Create SHA256SUM
 ZCZC  W02  60 L25  Learn C
 ZCZC  W02  30 L07  Trying week02 Demos
-ZCZC  W02  30 L23  Pop Quiz in Discord 
+ZCZC  W02  30 L23  Pop Quiz in Discord
+ZCZC  W02  30 L04  Linking log, rank, key, and repository on homepage 
