@@ -28,4 +28,16 @@ ZCZC  W02  10 L19  Create SHA256SUM
 ZCZC  W02  60 L25  Learn C
 ZCZC  W02  30 L07  Trying week02 Demos
 ZCZC  W02  30 L23  Pop Quiz in Discord
-ZCZC  W02  30 L04  Linking log, rank, key, and repository on homepage 
+ZCZC  W02  30 L04  Linking log, rank, key, and repository on homepage
+ZCZC  W03  60 L11  Read a summary of chapter 13+14+15
+ZCZC  W03  60 L12  Try Demos Week03
+ZCZC  W03  10 L13  Checking if bash_aliases is up to date
+ZCZC  W03  75 L14  Rank neighbors page
+ZCZC  W03  150 L15  Searching and creating top 10 links for this week
+ZCZC  W03  20 L16  Update log
+ZCZC  W03  45 L17  Extracting and creating a tarball
+ZCZC  W03  20 L18  Checking myscript
+ZCZC  W03  5 L19  Signing
+ZCZC  W03  75 L11  GSGS: More on linux command and directory structure
+ZCZC  W03  30 L11  Discord: quiz
+ZCZC  W03  60 L11  Zoom: class 
