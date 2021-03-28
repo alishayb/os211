@@ -40,4 +40,16 @@ ZCZC  W03  20 L18  Checking myscript
 ZCZC  W03  5 L19  Signing
 ZCZC  W03  75 L11  GSGS: More on linux command and directory structure
 ZCZC  W03  30 L11  Discord: quiz
-ZCZC  W03  60 L11  Zoom: class 
+ZCZC  W03  60 L11  Zoom: class
+ZCZC  W04  15 L01  Scele: Quiz
+ZCZC  W04  15 L05  GSGS about C
+ZCZC  W04  30 L11  Read a summary of chapter 9
+ZCZC  W04  30 L12  Try Demos Week03
+ZCZC  W04  45 L13  Rank neighbors page
+ZCZC  W04  180 L14  Searching and creating top 10 links for this week
+ZCZC  W04  30 L15  Update log
+ZCZC  W04  35 L16  Extracting and creating a tarball
+ZCZC  W04  5 L17  Checking myscript is updated
+ZCZC  W04  5 L18  Signing
+ZCZC  W04  30 L01  Discord: Quiz
+
