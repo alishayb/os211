@@ -52,4 +52,3 @@ ZCZC  W04  35 L16  Extracting and creating a tarball
 ZCZC  W04  5 L17  Checking myscript is updated
 ZCZC  W04  5 L18  Signing
 ZCZC  W04  30 L01  Discord: Quiz
-
