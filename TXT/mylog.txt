@@ -52,3 +52,11 @@ ZCZC  W04  35 L16  Extracting and creating a tarball
 ZCZC  W04  5 L17  Checking myscript is updated
 ZCZC  W04  5 L18  Signing
 ZCZC  W04  30 L01  Discord: Quiz
+ZCZC  W05  15 L01  Scele: Quiz
+ZCZC  W05  30 L11  Read a summary of chapter 10
+ZCZC  W05  30 L12  Rank neighbors page
+ZCZC  W05  120 L13  Searching and creating top 10 links for this week
+ZCZC  W05  30 L14  Download tarball 
+ZCZC  W05  30 L15  Update log
+ZCZC  W05  35 L16  Signing
+ZCZC  W05  30 L01  Trying to do quiz in Discord
