@@ -60,3 +60,11 @@ ZCZC  W05  30 L14  Download tarball
 ZCZC  W05  30 L15  Update log
 ZCZC  W05  35 L16  Signing
 ZCZC  W05  30 L01  Trying to do quiz in Discord
+ZCZC  W06  30 L01  Quiz
+ZCZC  W06  30 L11  Read a summary of chapter 3 and 4
+ZCZC  W06  30 L12  Rank neighbors page
+ZCZC  W06  120 L13  Searching and creating top 10 links for this week
+ZCZC  W06  30 L14  Tarball 
+ZCZC  W06  30 L15  Update log
+ZCZC  W06  35 L16  Signing
+ZCZC  W06  30 L23  Checking Discord
