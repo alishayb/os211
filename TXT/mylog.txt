@@ -68,3 +68,10 @@ ZCZC  W06  30 L14  Tarball
 ZCZC  W06  30 L15  Update log
 ZCZC  W06  35 L16  Signing
 ZCZC  W06  30 L23  Checking Discord
+ZCZC  W07  40 L11  Read a summary of chapter 6,7,8
+ZCZC  W07  30 L12  Rank neighbors page
+ZCZC  W07  120 L13  Searching and creating top 10 links for this week
+ZCZC  W07  120 L14  Do this week assignment 
+ZCZC  W07  30 L15  Update log
+ZCZC  W07  10 L16  Signing
+ZCZC  W07  15 L23  Checking Discord
