@@ -9,7 +9,7 @@ Welcome to Operating Systems 2021-1 (Semester Genap 2020/2021)
 -  [W04](W04)
 -  [W05](W05)
 -  [W06](W06)
--  W07
+-  [W07](W07)
 -  W08
 -  W09
 -  W10
