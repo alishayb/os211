@@ -75,3 +75,10 @@ ZCZC  W07  120 L14  Do this week assignment
 ZCZC  W07  30 L15  Update log
 ZCZC  W07  10 L16  Signing
 ZCZC  W07  15 L23  Checking Discord
+ZCZC  W08  30 L11  Read a summary of chapter 5
+ZCZC  W08  120 L12  Rank neighbors page and making top 10 links
+ZCZC  W08  180 L13  Building LFS (Chapter 1 - 4)
+ZCZC  W08  45 L14  Making report 
+ZCZC  W08  15 L15  Update log
+ZCZC  W08  5 L16  Signing
+ZCZC  W08  30 L01  Quiz in Scele
